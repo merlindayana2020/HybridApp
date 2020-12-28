@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="115819" started-at="2020-12-22T06:24:46Z" finished-at="2020-12-22T06:26:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="115819" started-at="2020-12-22T06:24:46Z" finished-at="2020-12-22T06:26:41Z">
+      <class name="hybrid.TC_01">
+        <test-method status="PASS" signature="bm()[pri:0, instance:hybrid.TC_01@5700d6b1]" name="bm" is-config="true" duration-ms="31879" started-at="2020-12-22T11:54:46Z" finished-at="2020-12-22T11:55:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bm -->
+        <test-method status="PASS" signature="testcase4()[pri:0, instance:hybrid.TC_01@5700d6b1]" name="testcase4" duration-ms="83918" started-at="2020-12-22T11:55:17Z" finished-at="2020-12-22T11:56:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcase4 -->
+      </class> <!-- hybrid.TC_01 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
